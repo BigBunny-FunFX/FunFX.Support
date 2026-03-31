@@ -19,4 +19,4 @@ Web import, pitch shift, reverb, EQ, reverse audio, and unlimited custom packs.
 Bug Reports
 
 If something isn't working right, please email us with a description of what happened, what you expected, and your device model and iOS version. Screenshots are always helpful.
-Report a Bug
+FunFXSupport@protonmail.com
