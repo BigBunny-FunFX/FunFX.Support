@@ -1,2 +1,22 @@
 # FunFX.Support
 Support and FAQ for FunFX Soundboard
+Frequently Asked Questions
+
+How do I add sounds?
+Tap the + button on the bottom toolbar, or go to Settings and add a new button. You can import from Files, record audio, download from a URL, or browse free sound libraries on the web.
+How do I switch between sound packs?
+Tap the pack name in the top-left corner of the main screen to open the pack switcher.
+Can I create my own packs?
+Yes. Open the pack switcher and tap "Create New Pack." You can organize any sounds into custom packs and switch between them.
+How do I back up my sounds?
+Go to Settings → Backup & Restore → Export to Folder. Choose any location in Files (iCloud Drive, Google Drive, etc.). Your sounds will be saved there and can be restored after reinstalling.
+What audio formats are supported?
+MP3, WAV, M4A, AAC, CAF, AIFF, OGG, and FLAC.
+Is there a subscription?
+No. FunFX has no subscriptions and no ads. The Classroom pack is free. Additional packs and Pro features are one-time purchases.
+What does Pro include?
+Web import, pitch shift, reverb, EQ, reverse audio, and unlimited custom packs.
+Bug Reports
+
+If something isn't working right, please email us with a description of what happened, what you expected, and your device model and iOS version. Screenshots are always helpful.
+Report a Bug
